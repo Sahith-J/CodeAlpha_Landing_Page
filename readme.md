@@ -8,7 +8,7 @@ This is a website for Hungry Huts, a platform that allows users to easily order 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Technologies Used
 
@@ -75,6 +75,3 @@ Contributions to this project are welcome. You can contribute by submitting bug 
 5. Push to the branch (`git push origin feature/awesome-feature`)
 6. Create a new Pull Request
 
-## License
-
-The Hungry Huts website is released under the [MIT License](LICENSE). Feel free to modify and use the code as per your needs.
